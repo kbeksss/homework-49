@@ -1,7 +1,6 @@
 {
   "name": "task2",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "figlet": "^1.2.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbeksss/homework-49.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kbeksss/homework-49/issues"
+  },
+  "homepage": "https://github.com/kbeksss/homework-49#readme",
+  "description": ""
 }
