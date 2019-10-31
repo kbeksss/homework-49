@@ -1,0 +1,7 @@
+1)cd ~ (на всякий случай в домашнюю директорию)
+2)mkdir projects
+3)cd projects
+4)mkdir my_project
+5)cd my_project
+6)mkdir directory1 directory2 directory 3
+7)mkdir directory1/subdirectory1 directory3/subdirectory2
